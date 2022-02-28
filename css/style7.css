@@ -1,0 +1,233 @@
+body{
+    background-color: darkgray;
+}
+header h3{
+    background-color: black;
+    color: white;
+    margin: 0px;
+    text-align: left;
+}
+header h3 img {
+    width: 18px;
+    height: 18px;
+}
+a:hover{
+    color: red;
+}
+.my-header a:hover{
+    color: red;
+}
+.my-header a{
+    text-decoration: none;
+    color: black;
+}
+.my-header{
+    word-spacing: 10px;
+}
+.container{
+    background-color: mediumblue;
+    color: white;
+    padding: 1.5em;
+    margin: 0px
+}
+.container a{
+    text-decoration: none;
+    color: white;      
+}
+.container p a{
+    text-decoration: underline;
+    color: skyblue;
+}
+.details h1{
+    text-align: center;
+}
+.details img{
+    width: 60px;
+    height: 60px;
+}
+.details h3{
+    text-align: right;
+}
+.details h5{
+    text-align: right;
+}
+.contents{
+    background-color: darkgray;
+    margin: 0em;
+}
+.contents h1{
+    text-align: center;
+    font-style: normal;
+    font-weight: bold;
+}
+.contents h5{
+    text-align: center;
+}
+.offers-1{
+    border: 2px white solid;
+    background-color: aqua;
+    border-style: groove;
+    padding: 20px;
+}
+.offers-1 h3{
+    background-color: mediumblue;
+    border-radius: 5px;
+    color: white;
+}
+.offers-1 h5{
+    text-decoration: underline;
+}
+.offers-1 a{
+    text-decoration: none;
+    background-color: black;
+    border-radius: 5px;
+    color: white;   
+}
+.offers-1 a:hover{
+    color: red;
+}
+.offers-1 p a{
+    text-decoration: underline black;
+    background-color: aqua;
+    color: black;
+}
+.offers-2{
+    border: 2px whitesmoke;
+    background-color: peru;
+    border-style: groove;
+    padding: 20px;
+}
+.offers-2 h3{
+    color: white;
+    background-color: mediumblue;
+    border-radius: 5px;
+}
+.offers-2 h5{
+    text-decoration: underline;
+}
+.offers-2 a:hover{
+    color: red;
+}
+.offers-2 a{
+    text-decoration: none;
+    background-color: black;
+    border-radius: 5px;
+    color: white;  
+}
+.offers-2 p a{
+    text-decoration: underline black;
+    background-color: peru;
+    color: black;
+}
+.offers-3{
+    border: 2px whitesmoke;
+    background-color: indigo;
+    border-style: groove;
+    padding: 20px;
+}
+.offers-3 h3{
+    color: white;
+    background-color: mediumblue;
+    border-radius: 5px;
+}
+.offers-3 h5{
+    text-decoration: underline;
+}
+.offers-3 a:hover{
+    color: red;
+}
+.offers-3 a{
+    text-decoration: none;
+    background-color: black;
+    border-radius: 5px;
+    color: white; 
+}
+.offers-3 p a{
+    text-decoration: underline black;
+    background-color: indigo;
+    color: black;
+}
+.offers-4{
+    border: 2px whitesmoke;
+    background-color: hotpink;
+    border-style: groove;
+    padding: 20px;
+}
+.offers-4 h3{
+    color: white;
+    background-color: mediumblue;
+    border-radius: 5px;
+}
+.offers-4 h5{
+    text-decoration: underline;
+}
+.offers-4 a:hover{
+    color: red;
+}
+.offers-4 a{
+    text-decoration: none;
+    background-color: black;
+    border-radius: 5px;
+    color: white; 
+}
+.offers-4 p a{
+    text-decoration: underline black;
+    background-color: hotpink;
+    color: black;
+}
+.parent{
+    background-color: black;
+    padding: 40px;
+}
+.parent h2{
+    color: white;
+}
+.parent h4{
+    color: white;
+}
+.company{
+    word-spacing: 40px;
+}
+.company a{
+    color: green;
+    text-decoration: none;
+}
+.company a:hover{
+    color: red;
+}
+.communties{
+    word-spacing: 100px;
+}
+.communties a{
+    color: green;
+    text-decoration: none;
+}
+.communties a:hover{
+    color: red;
+}
+.useful-links a{
+    color: green;
+    text-decoration: none;
+}
+.useful-links{
+    word-spacing: 100px;
+}
+.useful-links a:hover{
+    color: red;
+}
+.other-links{
+    word-spacing: 100px;
+}
+.other-links a{
+    color: green;
+    text-decoration: none;
+}
+.other-links a:hover{
+    color: red;
+}
+.my-footer p{
+    color: white;
+    text-align: right;
+}
+
+
